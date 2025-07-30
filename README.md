@@ -1,10 +1,10 @@
-## 🧠 Grocky: AI-Powered Job Interview Preparation Platform
+## 🧠 Grocky: AI-Powered Job Interview Preparation Platform 
 
 **Grocky** is a job interview preparation platform built using modern web technologies. It integrates AI voice agents to simulate real interview scenarios, giving users real-time feedback and transcripts to help them improve.
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Tech Stack Used
 
 * **Next.js** – for building the frontend and backend logic
 * **Tailwind CSS** – for modern, responsive styling
